@@ -2,6 +2,8 @@
 ---
 
 Inventory optimization and product performance analysis using Python and data visualization.
+
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)

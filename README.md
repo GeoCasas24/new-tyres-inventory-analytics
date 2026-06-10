@@ -1,8 +1,15 @@
 # 🚛 New Tyres Inventory Analytics
+---
 
 Inventory optimization and product performance analysis using Python and data visualization.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
----
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow)
+
 
 ## 📌 Project Overview
 
@@ -13,7 +20,13 @@ The objective was to identify high-performing products, inventory risks, and opp
 The analysis was conducted using a simulated dataset representing 90 days of inventory activity across multiple tire products.
 
 ---
+## 📓 Project Notebook
 
+The complete analysis can be found in:
+
+- notebooks/NewTyres_Inventory_Analytics.ipynb
+
+---
 ## 🎯 Business Problem
 
 Inventory management is a critical challenge for tire distributors.
@@ -54,6 +67,17 @@ The data was generated for educational and portfolio purposes.
 - GitHub
 
 ---
+## 📂 Project Structure
+
+```text
+new-tyres-inventory-analytics
+
+├── data
+├── images
+├── notebooks
+├── presentation
+└── README.md
+```
 
 ## 🔄 Analysis Process
 

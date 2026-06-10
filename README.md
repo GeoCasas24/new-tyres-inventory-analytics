@@ -13,7 +13,7 @@ Inventory optimization and product performance analysis using Python and data vi
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow)
 
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes inventory and sales performance for a tire distribution business.
 
@@ -22,14 +22,14 @@ The objective was to identify high-performing products, inventory risks, and opp
 The analysis was conducted using a simulated dataset representing 90 days of inventory activity across multiple tire products.
 
 ---
-## 📓 Project Notebook
+## Project Notebook
 
 The complete analysis can be found in:
 
 - notebooks/NewTyres_Inventory_Analytics.ipynb
 
 ---
-## 🎯 Business Problem
+## Business Problem
 
 Inventory management is a critical challenge for tire distributors.
 
@@ -44,7 +44,7 @@ This project aims to identify:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains:
 
@@ -59,7 +59,7 @@ The data was generated for educational and portfolio purposes.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python
 - Pandas
@@ -69,7 +69,7 @@ The data was generated for educational and portfolio purposes.
 - GitHub
 
 ---
-## 📂 Project Structure
+## Project Structure
 
 ```text
 new-tyres-inventory-analytics
@@ -81,7 +81,7 @@ new-tyres-inventory-analytics
 └── README.md
 ```
 
-## 🔄 Analysis Process
+## Analysis Process
 
 ### Data Preparation
 
@@ -107,7 +107,7 @@ Products were categorized as:
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 ### Top Selling Tire Sizes
 
@@ -127,7 +127,7 @@ Products were categorized as:
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - Total sales reached **36,058 units** during the analysis period.
 - Average inventory levels remained at **46.65 units per product**.
@@ -139,7 +139,7 @@ Products were categorized as:
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 ### 1. Prioritize High-Performing Products
 
@@ -159,7 +159,7 @@ Use inventory analytics to improve purchasing and replenishment planning.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Future versions of this project may include:
 
@@ -171,7 +171,7 @@ Future versions of this project may include:
 
 ---
 
-## 👩‍💻 About the Author
+## About the Author
 
 **Georgina Casas**
 
